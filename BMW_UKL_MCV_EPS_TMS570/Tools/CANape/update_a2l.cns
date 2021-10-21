@@ -1,0 +1,66 @@
+/**********************************************************************************************************************
+ *  FILE DESCRIPTION
+ *  -------------------------------------------------------------------------------------------------------------------
+ *   Description:  Post build script to update and create a consolidated a2l file that represents the calibration and 
+ *                  parameter content of the build.
+ *********************************************************************************************************************/
+
+
+/* Version Control:
+ * Date Created:      Mon Nov 17 18:34:17 2011
+ * %version:          3 %
+ * %date_modified:    Mon Jun  4 10:28:24 2012 %
+ *---------------------------------------------------------------------------------------------------------------------
+ * Date      Rev      Author         Change Description                                                        SCR #
+ * -------   -------  --------  ---------------------------------------------------------------------------  ----------
+ * 11/17/11   1       JJW       Initial Implementation
+ * 06/04/12   3       JJW       Update ActualizeDatabase settings and add rationale to prevent corrupting object definitions
+ *
+ */
+
+char BuildFolder[50];
+char BuildArtifact[50];
+char OutputDir[512] = "..\\..\\SwProject\\";
+
+GetArg(0, BuildFolder); // Get first script argument, build directory
+GetArg(1, BuildArtifact); // Get second script argument, build artifact base name
+
+Print(BuildFolder); 
+Print(BuildArtifact); 
+
+//CreateDevice("C:\\Documents and Settings\\xz0btk\\Desktop\\CANape BMW_UKL\\Eps_Xcp.a2l",2);
+
+Eps_Xcp.SetMapFile(31, "", ".out", BuildArtifact);
+
+/* ACTUALIZE DATABASE Settings:
+ * Update Data Types : No  : The Map file reader reads the TMS570 signed byte types as unsigned types. Enabling this cuases improper 
+ *                    datatypes to be placed in the resulting A2L.  Additionally the generated A2L files should have the appropriate
+ *                    and there should be no datatype conflicts present.
+ * Update Bit Offsets: No  : The current build process has generated A2L files which have the correct offsets, so there is no need to 
+ *                    update them here and risk an incorrect update.
+ * Update Deleted    : Yes : The current build process has generated A2L files which have some measurements/characteristics with incompatible 
+ *                    definitions (e.g. the Rte a2l array delimiter is '[]' whereas the  DataDictionary is '_'), or definitions that or only 
+ *                    present in special builds.  In order to not mislead the end user, the unresolvable parameters should be deleted.
+ * Deleted Offsets   : No : The current build process has generated A2L files which have the correct offsets, so there is no need to 
+ *                    update them here and risk an incorrect update.
+ */
+Eps_Xcp.ActualizeDatabase(0,  /* Update Data Types: No  (see rationale above)*/
+                          0,  /* Update Bit Offsets: No (see rationale above)*/
+                          1,  /* Update Deleted: Yes    (see rationale above)*/
+                          0); /* Delete Offsets: No     (see rationale above)*/
+
+/* Export a Single Complete a2l file to include with the build artifacts */
+StrCat(OutputDir, BuildFolder); 
+StrCat(OutputDir, "\\"); 
+StrCat(OutputDir, BuildArtifact); 
+StrCat(OutputDir, ".a2l"); 
+Eps_Xcp.ExportDatabase(OutputDir);
+
+/******************************************
+ * Exit * 
+ ******************************************/ 
+Print("CANape will now close."); 
+
+Exit(); 
+
+

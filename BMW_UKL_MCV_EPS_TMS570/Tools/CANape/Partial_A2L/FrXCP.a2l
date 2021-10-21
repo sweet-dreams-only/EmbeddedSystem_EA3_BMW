@@ -1,0 +1,216 @@
+    /begin XCP_ON_FLX
+      256
+      1000
+      ""
+      ""
+      48
+      HEADER_NAX_CTR_FILL_LEN
+      PACKET_ALIGNMENT_16
+      /begin INITIAL_CMD_BUFFER
+        255
+        MAX_FLX_LEN_BUF
+          FIXED 32
+        /begin LPDU_ID
+          FLX_SLOT_ID
+            FIXED 219
+          OFFSET
+            FIXED 0
+          CYCLE_REPETITION
+            FIXED 1
+          CHANNEL
+            FIXED A
+        /end LPDU_ID
+        /begin XCP_PACKET
+          CMD FIXED
+          RES_ERR NOT_ALLOWED
+          EV_SERV NOT_ALLOWED
+          DAQ NOT_ALLOWED
+          STIM NOT_ALLOWED
+        /end XCP_PACKET
+      /end INITIAL_CMD_BUFFER
+ 
+      /begin INITIAL_RES_ERR_BUFFER
+        0
+        MAX_FLX_LEN_BUF
+          FIXED 32
+        /begin LPDU_ID
+          FLX_SLOT_ID
+            FIXED 220
+          OFFSET
+            FIXED 0
+          CYCLE_REPETITION
+            FIXED 1
+          CHANNEL
+            FIXED A
+        /end LPDU_ID
+        /begin XCP_PACKET
+          CMD NOT_ALLOWED
+          RES_ERR FIXED
+          EV_SERV NOT_ALLOWED
+          DAQ NOT_ALLOWED
+          STIM NOT_ALLOWED
+        /end XCP_PACKET
+      /end INITIAL_RES_ERR_BUFFER
+ 
+      /begin POOL_BUFFER
+        1
+        MAX_FLX_LEN_BUF
+          FIXED 254
+        /begin LPDU_ID
+          FLX_SLOT_ID
+            FIXED 294
+          OFFSET
+            FIXED 0
+          CYCLE_REPETITION
+            FIXED 1
+          CHANNEL
+            FIXED A
+        /end LPDU_ID
+        /begin XCP_PACKET
+          CMD NOT_ALLOWED
+          RES_ERR VARIABLE
+          EV_SERV VARIABLE
+          DAQ VARIABLE
+          STIM NOT_ALLOWED
+        /end XCP_PACKET
+      /end POOL_BUFFER
+ 
+      /begin POOL_BUFFER
+        2
+        MAX_FLX_LEN_BUF
+          FIXED 254
+        /begin LPDU_ID
+          FLX_SLOT_ID
+            FIXED 295
+          OFFSET
+            FIXED 0
+          CYCLE_REPETITION
+            FIXED 1
+          CHANNEL
+            FIXED A
+        /end LPDU_ID
+        /begin XCP_PACKET
+          CMD NOT_ALLOWED
+          RES_ERR VARIABLE
+          EV_SERV VARIABLE
+          DAQ VARIABLE
+          STIM NOT_ALLOWED
+        /end XCP_PACKET
+      /end POOL_BUFFER
+ 
+      /begin POOL_BUFFER
+        3
+        MAX_FLX_LEN_BUF
+          FIXED 254
+        /begin LPDU_ID
+          FLX_SLOT_ID
+            FIXED 296
+          OFFSET
+            FIXED 0
+          CYCLE_REPETITION
+            FIXED 1
+          CHANNEL
+            FIXED A
+        /end LPDU_ID
+        /begin XCP_PACKET
+          CMD NOT_ALLOWED
+          RES_ERR VARIABLE
+          EV_SERV VARIABLE
+          DAQ VARIABLE
+          STIM NOT_ALLOWED
+        /end XCP_PACKET
+      /end POOL_BUFFER
+ 
+      /begin POOL_BUFFER
+        4
+        MAX_FLX_LEN_BUF
+          FIXED 254
+        /begin LPDU_ID
+          FLX_SLOT_ID
+            FIXED 297
+          OFFSET
+            FIXED 0
+          CYCLE_REPETITION
+            FIXED 1
+          CHANNEL
+            FIXED A
+        /end LPDU_ID
+        /begin XCP_PACKET
+          CMD NOT_ALLOWED
+          RES_ERR VARIABLE
+          EV_SERV VARIABLE
+          DAQ VARIABLE
+          STIM NOT_ALLOWED
+        /end XCP_PACKET
+      /end POOL_BUFFER
+ 
+      /begin POOL_BUFFER
+        5
+        MAX_FLX_LEN_BUF
+          FIXED 254
+        /begin LPDU_ID
+          FLX_SLOT_ID
+            FIXED 298
+          OFFSET
+            FIXED 0
+          CYCLE_REPETITION
+            FIXED 1
+          CHANNEL
+            FIXED A
+        /end LPDU_ID
+        /begin XCP_PACKET
+          CMD NOT_ALLOWED
+          RES_ERR VARIABLE
+          EV_SERV VARIABLE
+          DAQ VARIABLE
+          STIM NOT_ALLOWED
+        /end XCP_PACKET
+      /end POOL_BUFFER
+ 
+      /begin POOL_BUFFER
+        6
+        MAX_FLX_LEN_BUF
+          FIXED 254
+        /begin LPDU_ID
+          FLX_SLOT_ID
+            FIXED 299
+          OFFSET
+            FIXED 0
+          CYCLE_REPETITION
+            FIXED 1
+          CHANNEL
+            FIXED A
+        /end LPDU_ID
+        /begin XCP_PACKET
+          CMD NOT_ALLOWED
+          RES_ERR VARIABLE
+          EV_SERV VARIABLE
+          DAQ VARIABLE
+          STIM NOT_ALLOWED
+        /end XCP_PACKET
+      /end POOL_BUFFER
+ 
+      /begin POOL_BUFFER
+        7
+        MAX_FLX_LEN_BUF
+          FIXED 254
+        /begin LPDU_ID
+          FLX_SLOT_ID
+            FIXED 300
+          OFFSET
+            FIXED 0
+          CYCLE_REPETITION
+            FIXED 1
+          CHANNEL
+            FIXED A
+        /end LPDU_ID
+        /begin XCP_PACKET
+          CMD NOT_ALLOWED
+          RES_ERR VARIABLE
+          EV_SERV VARIABLE
+          DAQ VARIABLE
+          STIM NOT_ALLOWED
+        /end XCP_PACKET
+      /end POOL_BUFFER
+ 
+    /end XCP_ON_FLX

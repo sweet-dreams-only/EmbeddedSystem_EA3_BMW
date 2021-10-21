@@ -1,0 +1,1 @@
+extern VAR(boolean, SYSTIMECLIENT_VAR) Rte_COMCbk_SysTimeClientIndicationFlag;extern VAR(boolean, SYSTIMECLIENT_VAR) NxtrPatch_SysTimeClientIndicationFlag = FALSE;//#define SYSTIMECLIENT_MSG_IND_FLAG (Rte_COMCbk_SysTimeClientIndicationFlag)#define SYSTIMECLIENT_IND_FLAG_SET()  ( Rte_COMCbk_SysTimeClientIndicationFlag == TRUE )

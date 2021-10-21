@@ -1,0 +1,1 @@
+extern volatile VAR(uint8, CDD_VAR_NOINIT) CDD_Adc_ConvFlag_Uls_u08;

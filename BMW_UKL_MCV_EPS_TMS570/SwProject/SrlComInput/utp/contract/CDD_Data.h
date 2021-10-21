@@ -1,0 +1,1 @@
+extern VAR(boolean, CDD_VAR_NOINIT) CDD_InitialTimeLockout_Cnt_G_lgc;

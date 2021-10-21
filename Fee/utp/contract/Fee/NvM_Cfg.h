@@ -1,0 +1,1 @@
+#define NVM_DATASET_SELECTION_BITS (1u) /* Dummy value */

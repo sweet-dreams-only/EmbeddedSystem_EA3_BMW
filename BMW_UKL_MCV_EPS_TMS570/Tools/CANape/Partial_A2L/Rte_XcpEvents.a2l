@@ -1,0 +1,371 @@
+/**********************************************************************************************************************
+ *  COPYRIGHT
+ *  -------------------------------------------------------------------------------------------------------------------
+ *  Copyright (c) 2006-2011 by Vctr Informatik GmbH.                                             All rights reserved.
+ *
+ *                This software is copyright protected and proprietary to Vctr Informatik GmbH.
+ *                Vctr Informatik GmbH grants to you only those rights as set out in the license conditions.
+ *                All other rights remain with Vctr Informatik GmbH.
+ *  -------------------------------------------------------------------------------------------------------------------
+ *  FILE DESCRIPTION
+ *  -------------------------------------------------------------------------------------------------------------------
+ *          File:  Rte_XcpEvents.a2l
+ *     Workspace:  C:/_swb/BMW/BMW_UKL_MCV_EPS_TMS570-i400/BMW_UKL_MCV_EPS_TMS570/Tools/AsrProject/Config/DCF/EPS.dcf
+ *   ECU-Project:  EPS
+ *  Generated at:  Wed Nov 21 14:34:17 2012
+ *
+ *     Generator:  MICROSAR RTE Generator Version 2.19.1
+ *       License:  License CBD1010124 valid for CBD1010124 Nxtr  Package: BMW MSR SIP BAC3.0     Micro: TI TMS570 TMS570LS30306  Compiler: Code Composer Studio 4.9.0
+ *
+ *   Description:  MICROSAR RTE Xcp Event A2L file
+ *********************************************************************************************************************/
+/begin EVENT
+  Rte_SrlComInput_Per1 /* EVENT_CHANNEL_NAME */
+  Rte_SrlCo /* EVENT_CHANNEL_SHORT_NAME */
+  192 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_SrlComInput_TRGD_RxVIN /* EVENT_CHANNEL_NAME */
+  Rte_SrlCo /* EVENT_CHANNEL_SHORT_NAME */
+  193 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_100ms_10 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  194 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_100ms_11 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  195 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_100ms_7 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  64 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_100ms_8 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  65 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_100ms_9 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  66 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_10msA_10 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  196 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_10msA_9 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  67 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_10msB_10 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  128 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_10msB_9 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  129 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_10ms_7 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  224 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_1msA_10 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  68 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_1msB_10 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  197 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_2ms_10 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  198 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_2ms_11 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  199 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_2ms_7 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  218 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_2ms_8 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  219 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_2ms_9 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  220 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_4ms_10 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  69 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_4ms_7 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  92 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_4ms_8 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  93 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_4ms_9 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  94 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_5ms_9 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  223 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_Init_10 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  70 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_Init_11 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  71 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_Init_7 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  176 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_Init_8 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  200 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_Init_9 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  201 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_Trans_9 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  130 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_Trgd_10 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  72 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_Trns_10 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  131 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_Trns_11 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  132 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_Trns_7 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  144 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT
+/begin EVENT
+  Rte_Task_Trns_8 /* EVENT_CHANNEL_NAME */
+  Rte_Task_ /* EVENT_CHANNEL_SHORT_NAME */
+  160 /* EVENT_CHANNEL_NUMBER */
+  DAQ
+  0 /* MAX_DAQ_LIST */
+  0 /* TIME_CYCLE */
+  6 /* TIME_UNIT */
+  0 /* PRIORITY */
+/end EVENT

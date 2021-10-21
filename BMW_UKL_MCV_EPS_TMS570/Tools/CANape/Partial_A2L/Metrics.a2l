@@ -1,0 +1,3131 @@
+
+    /begin COMPU_METHOD BD1_2msA.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD BD1_2msA.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD BD1_2msA.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD BD1_2msB.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD BD1_2msB.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD BD1_2msB.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD BD2_2msA.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD BD2_2msA.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD BD2_2msA.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD BD2_Misc.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD BD2_Misc.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD BD2_Misc.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD BkgndLoopTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD CpuUse.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD D.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD D.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD D.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD D_Init.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD D_Init.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD D_Init.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD D_MtrCtrl.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD D_SchM.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD D_SchM.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD D_SchM.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD Fr_IrqLine0.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD Fr_IrqLine0.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD Fr_IrqLine0.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD Fr_ISR_Timer0.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD Fr_ISR_Timer0.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD Fr_ISR_Timer0.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD Fr_ISR_Timer1.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD Fr_ISR_Timer1.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD Fr_ISR_Timer1.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD k_CpuUseUpdateInterval.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_100ms.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_100ms.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_100ms.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_10ms.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_10ms.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_10ms.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_128ms.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_128ms.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_128ms.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_256ms.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_256ms.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_256ms.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_4ms.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_4ms.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_4ms.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_5ms.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_5ms.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_5ms.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_64ms.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_64ms.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_64ms.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_8ms.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_8ms.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_8ms.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_Background.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_Background.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_Background.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_Init.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_Init.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_Init.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_SchM.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_SchM.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_SchM.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_SchM2.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_SchM2.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_SchM2.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_SysStTrans.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_SysStTrans.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD QM_SysStTrans.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD Runnable0.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD Runnable0.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD Runnable0.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit0TxRx.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit0TxRx.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit0TxRx.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit0TxRxERR.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit0TxRxERR.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit0TxRxERR.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit1TxRx.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit1TxRx.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit1TxRx.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit1TxRxERR.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit1TxRxERR.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit1TxRxERR.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit2TxRx.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit2TxRx.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit2TxRx.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit2TxRxERR.ActiveTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit2TxRxERR.CpuUse_Pct.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 1 0
+    /end COMPU_METHOD
+
+    /begin COMPU_METHOD SPI_IrqUnit2TxRxERR.RunTimeMax.CONVERSION "@@@@RuleName created by CANape"
+      LINEAR "%3.1" ""
+      COEFFS_LINEAR 0.001 0
+    /end COMPU_METHOD
+
+    /begin MEASUREMENT BD1_2msA.ActiveTimeMax ""
+      ULONG BD1_2msA.ActiveTimeMax.CONVERSION 0 0 0 2
+      READ_WRITE
+      ECU_ADDRESS 0x80124D4
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._1_.ActiveTimeMax_uS_u32" 0x80124D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._1_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT BD1_2msA.CpuUse_Pct ""
+      FLOAT32_IEEE BD1_2msA.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80124EC
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._1_.CpuUse_Pct_f32" 0x80124EC 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._1_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT BD1_2msA.RunTimeMax ""
+      ULONG BD1_2msA.RunTimeMax.CONVERSION 0 0 0 2
+      READ_WRITE
+      ECU_ADDRESS 0x80124D8
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._1_.RunTimeMax_uS_u32" 0x80124D8 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._1_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT BD1_2msB.ActiveTimeMax ""
+      ULONG BD1_2msB.ActiveTimeMax.CONVERSION 0 0 0 2
+      READ_WRITE
+      ECU_ADDRESS 0x801250C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._3_.ActiveTimeMax_uS_u32" 0x801250C 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._3_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT BD1_2msB.CpuUse_Pct ""
+      FLOAT32_IEEE BD1_2msB.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012524
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._3_.CpuUse_Pct_f32" 0x8012524 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._3_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT BD1_2msB.RunTimeMax ""
+      ULONG BD1_2msB.RunTimeMax.CONVERSION 0 0 0 2
+      READ_WRITE
+      ECU_ADDRESS 0x8012510
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._3_.RunTimeMax_uS_u32" 0x8012510 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._3_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT BD2_2msA.ActiveTimeMax ""
+      ULONG BD2_2msA.ActiveTimeMax.CONVERSION 0 0 0 2
+      READ_WRITE
+      ECU_ADDRESS 0x80124F0
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._2_.ActiveTimeMax_uS_u32" 0x80124F0 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._2_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT BD2_2msA.CpuUse_Pct ""
+      FLOAT32_IEEE BD2_2msA.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012508
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._2_.CpuUse_Pct_f32" 0x8012508 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._2_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT BD2_2msA.RunTimeMax ""
+      ULONG BD2_2msA.RunTimeMax.CONVERSION 0 0 0 2
+      READ_WRITE
+      ECU_ADDRESS 0x80124F4
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._2_.RunTimeMax_uS_u32" 0x80124F4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._2_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT BD2_Misc.ActiveTimeMax ""
+      ULONG BD2_Misc.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012560
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._6_.ActiveTimeMax_uS_u32" 0x8012560 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._6_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT BD2_Misc.CpuUse_Pct ""
+      FLOAT32_IEEE BD2_Misc.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012578
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._6_.CpuUse_Pct_f32" 0x8012578 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._6_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT BD2_Misc.RunTimeMax ""
+      ULONG BD2_Misc.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012564
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._6_.RunTimeMax_uS_u32" 0x8012564 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._6_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT BkgndLoopTimeMax "Maximum time measured to complete one loop through the background tasks."
+      ULONG BkgndLoopTimeMax.CONVERSION 0 0 0 65535
+      READ_WRITE
+      ECU_ADDRESS 0x8012828
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      DISPLAY_IDENTIFIER BkgndLoopTimeMax
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_BkgndLoopTimeMax_mS_M_u32" 0x8012828 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 100
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_BkgndLoopTimeMax_mS_M_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT CpuUse "Average CPU time spent processing tasks.  The measurement and  calculation of this value is performed by the embedded metrics algorithm."
+      FLOAT32_IEEE CpuUse.CONVERSION 0 0 0 100
+      ECU_ADDRESS 0x8012818
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_CpuUse_Pct_M_f32" 0x8012818 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 100
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_CpuUse_Pct_M_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT D.ActiveTimeMax ""
+      ULONG D.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80124B8
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._0_.ActiveTimeMax_uS_u32" 0x80124B8 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._0_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT D.CpuUse_Pct ""
+      FLOAT32_IEEE D.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80124D0
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._0_.CpuUse_Pct_f32" 0x80124D0 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._0_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT D.RunTimeMax ""
+      ULONG D.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80124BC
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._0_.RunTimeMax_uS_u32" 0x80124BC 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._0_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT D_Init.ActiveTimeMax ""
+      ULONG D_Init.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012694
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._17_.ActiveTimeMax_uS_u32" 0x8012694 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._17_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT D_Init.CpuUse_Pct ""
+      FLOAT32_IEEE D_Init.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80126AC
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._17_.CpuUse_Pct_f32" 0x80126AC 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._17_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT D_Init.RunTimeMax ""
+      ULONG D_Init.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012698
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._17_.RunTimeMax_uS_u32" 0x8012698 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._17_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT D_MtrCtrl.ActiveTimeMax ""
+      ULONG NO_COMPU_METHOD 0 0 0 1
+      READ_WRITE
+      ECU_ADDRESS 0x80126E8
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._20_.ActiveTimeMax_uS_u32" 0x80126E8 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._20_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "uS"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT D_MtrCtrl.CpuUse_Pct ""
+      FLOAT32_IEEE D_MtrCtrl.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012700
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._20_.CpuUse_Pct_f32" 0x8012700 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._20_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT D_MtrCtrl.RunTimeMax ""
+      ULONG NO_COMPU_METHOD 0 0 0 255
+      READ_WRITE
+      ECU_ADDRESS 0x80126EC
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._20_.RunTimeMax_uS_u32" 0x80126EC 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._20_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "uS"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT D_SchM.ActiveTimeMax ""
+      ULONG D_SchM.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x801267C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._16_.RunTimeMax_uS_u32" 0x801267C 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._16_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT D_SchM.CpuUse_Pct ""
+      FLOAT32_IEEE D_SchM.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012690
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._16_.CpuUse_Pct_f32" 0x8012690 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._16_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT D_SchM.RunTimeMax ""
+      ULONG D_SchM.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x801267C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._16_.RunTimeMax_uS_u32" 0x801267C 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._16_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT Fr_ISR_Timer0.ActiveTimeMax ""
+      ULONG Fr_ISR_Timer0.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012720
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._22_.ActiveTimeMax_uS_u32" 0x8012720 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._22_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT Fr_ISR_Timer0.CpuUse_Pct ""
+      FLOAT32_IEEE Fr_ISR_Timer0.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012738
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._22_.CpuUse_Pct_f32" 0x8012738 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._22_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT Fr_ISR_Timer0.RunTimeMax ""
+      ULONG Fr_ISR_Timer0.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012724
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._22_.RunTimeMax_uS_u32" 0x8012724 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._22_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT Fr_ISR_Timer1.ActiveTimeMax ""
+      ULONG Fr_ISR_Timer1.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x801273C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._23_.ActiveTimeMax_uS_u32" 0x801273C 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._23_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT Fr_ISR_Timer1.CpuUse_Pct ""
+      FLOAT32_IEEE Fr_ISR_Timer1.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012754
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._23_.CpuUse_Pct_f32" 0x8012754 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._23_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT Fr_ISR_Timer1.RunTimeMax ""
+      ULONG Fr_ISR_Timer1.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012740
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._23_.RunTimeMax_uS_u32" 0x8012740 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._23_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT Fr_IrqLine0.ActiveTimeMax ""
+      ULONG Fr_IrqLine0.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012704
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._21_.ActiveTimeMax_uS_u32" 0x8012704 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._21_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT Fr_IrqLine0.CpuUse_Pct ""
+      FLOAT32_IEEE Fr_IrqLine0.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x801271C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._21_.CpuUse_Pct_f32" 0x801271C 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._21_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT Fr_IrqLine0.RunTimeMax ""
+      ULONG Fr_IrqLine0.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012708
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._21_.RunTimeMax_uS_u32" 0x8012708 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._21_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin CHARACTERISTIC Mask_128msTL ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x8
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_16msTL ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x200
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_256msTL ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x800
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_2msTL ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x2
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_4msTL ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x80
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_5msTL ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x4
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_64msTL ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x400
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_8msTL ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x100
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_Com1ISR ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x4000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_Com2ISR ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x8000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_Com3ISR ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x10000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_InitTL ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x1
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_MtrCtrlTL ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x2000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_SchM2TL ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x40
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_SchMTL ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x20
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC Mask_SysStTransTL ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x10
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin MEASUREMENT QM_100ms.ActiveTimeMax ""
+      ULONG QM_100ms.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012640
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._14_.ActiveTimeMax_uS_u32" 0x8012640 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._14_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_100ms.CpuUse_Pct ""
+      FLOAT32_IEEE QM_100ms.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012658
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._14_.CpuUse_Pct_f32" 0x8012658 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._14_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_100ms.RunTimeMax ""
+      ULONG QM_100ms.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012644
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._14_.RunTimeMax_uS_u32" 0x8012644 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._14_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_10ms.ActiveTimeMax ""
+      ULONG QM_10ms.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80125B4
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._9_.ActiveTimeMax_uS_u32" 0x80125B4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._9_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_10ms.CpuUse_Pct ""
+      FLOAT32_IEEE QM_10ms.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80125CC
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._9_.CpuUse_Pct_f32" 0x80125CC 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._9_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_10ms.RunTimeMax ""
+      ULONG QM_10ms.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80125B8
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._9_.RunTimeMax_uS_u32" 0x80125B8 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._9_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_128ms.ActiveTimeMax ""
+      ULONG QM_128ms.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80125EC
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._11_.ActiveTimeMax_uS_u32" 0x80125EC 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._11_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_128ms.CpuUse_Pct ""
+      FLOAT32_IEEE QM_128ms.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012604
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._11_.CpuUse_Pct_f32" 0x8012604 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._11_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_128ms.RunTimeMax ""
+      ULONG QM_128ms.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80125F0
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._11_.RunTimeMax_uS_u32" 0x80125F0 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._11_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_256ms.ActiveTimeMax ""
+      ULONG QM_256ms.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012608
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._12_.ActiveTimeMax_uS_u32" 0x8012608 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._12_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_256ms.CpuUse_Pct ""
+      FLOAT32_IEEE QM_256ms.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012620
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._12_.CpuUse_Pct_f32" 0x8012620 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._12_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_256ms.RunTimeMax ""
+      ULONG QM_256ms.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x801260C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._12_.RunTimeMax_uS_u32" 0x801260C 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._12_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_4ms.ActiveTimeMax ""
+      ULONG QM_4ms.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012544
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._5_.ActiveTimeMax_uS_u32" 0x8012544 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._5_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_4ms.CpuUse_Pct ""
+      FLOAT32_IEEE QM_4ms.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x801255C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._5_.CpuUse_Pct_f32" 0x801255C 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._5_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_4ms.RunTimeMax ""
+      ULONG QM_4ms.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012548
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._5_.RunTimeMax_uS_u32" 0x8012548 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._5_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_5ms.ActiveTimeMax ""
+      ULONG QM_5ms.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x801257C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._7_.ActiveTimeMax_uS_u32" 0x801257C 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._7_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_5ms.CpuUse_Pct ""
+      FLOAT32_IEEE QM_5ms.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012594
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._7_.CpuUse_Pct_f32" 0x8012594 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._7_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_5ms.RunTimeMax ""
+      ULONG QM_5ms.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012580
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._7_.RunTimeMax_uS_u32" 0x8012580 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._7_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_64ms.ActiveTimeMax ""
+      ULONG QM_64ms.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80125D0
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._10_.ActiveTimeMax_uS_u32" 0x80125D0 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._10_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_64ms.CpuUse_Pct ""
+      FLOAT32_IEEE QM_64ms.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80125E8
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._10_.CpuUse_Pct_f32" 0x80125E8 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._10_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_64ms.RunTimeMax ""
+      ULONG QM_64ms.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80125D4
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._10_.RunTimeMax_uS_u32" 0x80125D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._10_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_8ms.ActiveTimeMax ""
+      ULONG QM_8ms.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012598
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._8_.ActiveTimeMax_uS_u32" 0x8012598 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._8_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_8ms.CpuUse_Pct ""
+      FLOAT32_IEEE QM_8ms.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80125B0
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._8_.CpuUse_Pct_f32" 0x80125B0 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._8_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_8ms.RunTimeMax ""
+      ULONG QM_8ms.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x801259C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._8_.RunTimeMax_uS_u32" 0x801259C 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._8_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_Background.ActiveTimeMax ""
+      ULONG QM_Background.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80126CC
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._19_.ActiveTimeMax_uS_u32" 0x80126CC 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._19_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_Background.CpuUse_Pct ""
+      FLOAT32_IEEE QM_Background.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80126E4
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._19_.CpuUse_Pct_f32" 0x80126E4 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._19_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_Background.RunTimeMax ""
+      ULONG QM_Background.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80126D0
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._19_.RunTimeMax_uS_u32" 0x80126D0 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._19_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_Init.ActiveTimeMax ""
+      ULONG QM_Init.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80126B0
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._18_.ActiveTimeMax_uS_u32" 0x80126B0 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._18_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_Init.CpuUse_Pct ""
+      FLOAT32_IEEE QM_Init.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80126C8
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._18_.CpuUse_Pct_f32" 0x80126C8 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._18_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_Init.RunTimeMax ""
+      ULONG QM_Init.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80126B4
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._18_.RunTimeMax_uS_u32" 0x80126B4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._18_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_SchM.ActiveTimeMax ""
+      ULONG QM_SchM.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012528
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._4_.ActiveTimeMax_uS_u32" 0x8012528 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._4_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_SchM.CpuUse_Pct ""
+      FLOAT32_IEEE QM_SchM.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012540
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._4_.CpuUse_Pct_f32" 0x8012540 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._4_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_SchM.RunTimeMax ""
+      ULONG QM_SchM.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x801252C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._4_.RunTimeMax_uS_u32" 0x801252C 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._4_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_SchM2.ActiveTimeMax ""
+      ULONG QM_SchM2.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x801265C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._15_.ActiveTimeMax_uS_u32" 0x801265C 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._15_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_SchM2.CpuUse_Pct ""
+      FLOAT32_IEEE QM_SchM2.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012674
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._15_.CpuUse_Pct_f32" 0x8012674 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._15_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_SchM2.RunTimeMax ""
+      ULONG QM_SchM2.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012660
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._15_.RunTimeMax_uS_u32" 0x8012660 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._15_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_SysStTrans.ActiveTimeMax ""
+      ULONG QM_SysStTrans.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012624
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._13_.ActiveTimeMax_uS_u32" 0x8012624 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._13_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_SysStTrans.CpuUse_Pct ""
+      ULONG QM_SysStTrans.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012628
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._13_.RunTimeMax_uS_u32" 0x8012628 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._13_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT QM_SysStTrans.RunTimeMax ""
+      ULONG QM_SysStTrans.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012628
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._13_.RunTimeMax_uS_u32" 0x8012628 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._13_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT Runnable0.ActiveTimeMax ""
+      ULONG Runnable0.ActiveTimeMax.CONVERSION 0 0 0 2
+      READ_WRITE
+      ECU_ADDRESS 0x8012800
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_RunnableTimes_Str._0_.ActiveTimeMax_uS_u32" 0x8012800 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_RunnableTimes_Str._0_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT Runnable0.CpuUse_Pct ""
+      FLOAT32_IEEE Runnable0.CpuUse_Pct.CONVERSION 0 0 0 2
+      READ_WRITE
+      ECU_ADDRESS 0x8012814
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_RunnableTimes_Str._0_.CpuUse_Pct_f32" 0x8012814 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_RunnableTimes_Str._0_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT Runnable0.RunTimeMax ""
+      ULONG Runnable0.RunTimeMax.CONVERSION 0 0 0 2
+      READ_WRITE
+      ECU_ADDRESS 0x8012804
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_RunnableTimes_Str._0_.RunTimeMax_uS_u32" 0x8012804 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_RunnableTimes_Str._0_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit0TxRx.ActiveTimeMax ""
+      ULONG SPI_IrqUnit0TxRx.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012774
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._25_.ActiveTimeMax_uS_u32" 0x8012774 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._25_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit0TxRx.CpuUse_Pct ""
+      FLOAT32_IEEE SPI_IrqUnit0TxRx.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x801278C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._25_.CpuUse_Pct_f32" 0x801278C 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._25_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit0TxRx.RunTimeMax ""
+      ULONG SPI_IrqUnit0TxRx.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012778
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._25_.RunTimeMax_uS_u32" 0x8012778 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._25_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit0TxRxERR.ActiveTimeMax ""
+      ULONG SPI_IrqUnit0TxRxERR.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012758
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._24_.ActiveTimeMax_uS_u32" 0x8012758 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._24_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit0TxRxERR.CpuUse_Pct ""
+      FLOAT32_IEEE SPI_IrqUnit0TxRxERR.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012770
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._24_.CpuUse_Pct_f32" 0x8012770 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._24_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit0TxRxERR.RunTimeMax ""
+      ULONG SPI_IrqUnit0TxRxERR.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x801275C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._24_.RunTimeMax_uS_u32" 0x801275C 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._24_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit1TxRx.ActiveTimeMax ""
+      ULONG SPI_IrqUnit1TxRx.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80127AC
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._27_.ActiveTimeMax_uS_u32" 0x80127AC 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._27_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit1TxRx.CpuUse_Pct ""
+      FLOAT32_IEEE SPI_IrqUnit1TxRx.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80127C4
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._27_.CpuUse_Pct_f32" 0x80127C4 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._27_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit1TxRx.RunTimeMax ""
+      ULONG SPI_IrqUnit1TxRx.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80127B0
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._27_.RunTimeMax_uS_u32" 0x80127B0 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._27_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit1TxRxERR.ActiveTimeMax ""
+      ULONG SPI_IrqUnit1TxRxERR.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012790
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._26_.ActiveTimeMax_uS_u32" 0x8012790 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._26_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit1TxRxERR.CpuUse_Pct ""
+      FLOAT32_IEEE SPI_IrqUnit1TxRxERR.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80127A8
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._26_.CpuUse_Pct_f32" 0x80127A8 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._26_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit1TxRxERR.RunTimeMax ""
+      ULONG SPI_IrqUnit1TxRxERR.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x8012794
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._26_.RunTimeMax_uS_u32" 0x8012794 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._26_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit2TxRx.ActiveTimeMax ""
+      ULONG SPI_IrqUnit2TxRx.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80127E4
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._29_.ActiveTimeMax_uS_u32" 0x80127E4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._29_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit2TxRx.CpuUse_Pct ""
+      FLOAT32_IEEE SPI_IrqUnit2TxRx.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80127FC
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._29_.CpuUse_Pct_f32" 0x80127FC 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._29_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit2TxRx.RunTimeMax ""
+      ULONG SPI_IrqUnit2TxRx.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80127E8
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._29_.RunTimeMax_uS_u32" 0x80127E8 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._29_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit2TxRxERR.ActiveTimeMax ""
+      ULONG SPI_IrqUnit2TxRxERR.ActiveTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80127C8
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._28_.ActiveTimeMax_uS_u32" 0x80127C8 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._28_.ActiveTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit2TxRxERR.CpuUse_Pct ""
+      FLOAT32_IEEE SPI_IrqUnit2TxRxERR.CpuUse_Pct.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80127E0
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._28_.CpuUse_Pct_f32" 0x80127E0 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._28_.CpuUse_Pct_f32" 0
+      PHYS_UNIT "%"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT SPI_IrqUnit2TxRxERR.RunTimeMax ""
+      ULONG SPI_IrqUnit2TxRxERR.RunTimeMax.CONVERSION 0 0 0 100
+      READ_WRITE
+      ECU_ADDRESS 0x80127CC
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_TaskTimes_Str._28_.RunTimeMax_uS_u32" 0x80127CC 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 2
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_TaskTimes_Str._28_.RunTimeMax_uS_u32" 0
+      PHYS_UNIT "ms"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_BD1_2msA ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x8012832
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._1_" 0x8012832 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._1_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_BD1_2msB ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x8012836
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._3_" 0x8012836 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._3_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_BD2_2msA ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x8012834
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._2_" 0x8012834 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._2_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_BD2_Misc ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x801283C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._6_" 0x801283C 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._6_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_D ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x8012830
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._0_" 0x8012830 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._0_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_D_Init ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x8012852
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._17_" 0x8012852 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._17_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_D_SchM_Init ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x8012850
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._16_" 0x8012850 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._16_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_QM_100ms ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x801284C
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._14_" 0x801284C 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._14_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_QM_10ms ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x8012842
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._9_" 0x8012842 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._9_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_QM_128ms ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x8012846
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._11_" 0x8012846 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._11_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_QM_256ms ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x8012848
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._12_" 0x8012848 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._12_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_QM_4ms ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x801283A
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._5_" 0x801283A 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._5_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_QM_5ms ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x801283E
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._7_" 0x801283E 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._7_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_QM_64ms ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x8012844
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._10_" 0x8012844 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._10_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_QM_8ms ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x8012840
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._8_" 0x8012840 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._8_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_QM_Bkgnd ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x8012856
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._19_" 0x8012856 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._19_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_QM_Init ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x8012854
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._18_" 0x8012854 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._18_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_QM_SchM ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x8012838
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._4_" 0x8012838 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._4_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_QM_SchM2 ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x801284E
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._15_" 0x801284E 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._15_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin MEASUREMENT StackUse_QM_SysStTrans ""
+      UWORD NO_COMPU_METHOD 0 0 0 65535
+      ECU_ADDRESS 0x801284A
+      ECU_ADDRESS_EXTENSION 0x0
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "Metrics_StackUse_Cnt_M_u16._13_" 0x801284A 0x0 0 0x0 1 0x8F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "Metrics_StackUse_Cnt_M_u16._13_" 0
+      PHYS_UNIT "B"
+    /end MEASUREMENT
+
+    /begin CHARACTERISTIC TraceLog ""
+      VAL_BLK 0x8012008 __ULONG_Z 0 NO_COMPU_METHOD  0 255
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 255
+      MATRIX_DIM 2 150 1
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "CDD_MetricsTrace_Cnt_G_Str" 0x8012008 0x0 0 0x0 1 0x87 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "CDD_MetricsTrace_Cnt_G_Str" 0
+      FORMAT "%.15"
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.BD1_2msA ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x2
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.BD1_2msB ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x8
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.BD2_2msA ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x4
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.BD2_Misc ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x40
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.D ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x1
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.D_Init ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x20000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.D_SchM ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x10000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.Fr_ISR_Timer0 ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x400000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.Fr_ISR_Timer1 ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x800000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.Fr_IrqLine0 ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x200000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.MtrCtrl ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x100000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.QM_100ms ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x4000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.QM_10ms ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x200
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.QM_128ms ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x800
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.QM_256ms ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x1000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.QM_4ms ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x20
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.QM_5ms ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x80
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.QM_64ms ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x400
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.QM_8ms ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x100
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.QM_Bkgnd ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x80000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.QM_Init ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x40000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.QM_SchM ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x10
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.QM_SchM2 ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x8000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.QM_SysStTrans ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x2000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.SPI_IrqUnit0TxRx ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x2000000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.SPI_IrqUnit0TxRxERR ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x1000000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.SPI_IrqUnit1TxRx ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x8000000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.SPI_IrqUnit1TxRxERR ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x4000000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.SPI_IrqUnit2TxRx ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x20000000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseProcessMask.SPI_IrqUnit2TxRxERR ""
+      VALUE 0x802F9D4 __ULONG_S 0 NO_COMPU_METHOD 0 4294967295
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 4294967295
+      BIT_MASK 0x10000000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseProcessMask_Cnt_b32" 0x802F9D4 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 255
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseProcessMask_Cnt_b32" 0
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_CpuUseUpdateInterval ""
+      VALUE 0x802F9CC __ULONG_S 0 k_CpuUseUpdateInterval.CONVERSION 0 10000
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 10000
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_CpuUseUpdateInterval_mS_u32" 0x802F9CC 0x0 0 0x0 1 0x9F 0x0
+        DISPLAY 0 0 10000
+      /end IF_DATA
+      SYMBOL_LINK "k_CpuUseUpdateInterval_mS_u32" 0
+      PHYS_UNIT "ms"
+    /end CHARACTERISTIC
+
+    /begin CHARACTERISTIC k_TaskTimeFilterK_Uls_f32 ""
+      VALUE 0x802F9DC __FLOAT32_IEEE_S 0 NO_COMPU_METHOD 0 1
+      ECU_ADDRESS_EXTENSION 0x0
+      EXTENDED_LIMITS 0 1
+      FORMAT "%.15"
+      /begin IF_DATA CANAPE_EXT
+        100
+        LINK_MAP "k_TaskTimeFilterK_Uls_f32._0_" 0x802F9DC 0x0 0 0x0 1 0x1 0x0
+        DISPLAY 0 0 1
+      /end IF_DATA
+      SYMBOL_LINK "k_TaskTimeFilterK_Uls_f32._0_" 0
+      PHYS_UNIT "Uls"
+    /end CHARACTERISTIC
+
+    /begin GROUP BD1_2msA "Task_BD1_2msA"
+      /begin REF_MEASUREMENT
+        BD1_2msA.ActiveTimeMax BD1_2msA.CpuUse_Pct BD1_2msA.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP BD1_2msB "Task_BD1_2msB"
+      /begin REF_MEASUREMENT
+        BD1_2msB.ActiveTimeMax BD1_2msB.CpuUse_Pct BD1_2msB.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP BD2_2msA "Task_BD2_2msA"
+      /begin REF_MEASUREMENT
+        BD2_2msA.ActiveTimeMax BD2_2msA.CpuUse_Pct BD2_2msA.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP BD2_Misc "Task_BD2_Misc"
+      /begin REF_MEASUREMENT
+        BD2_Misc.ActiveTimeMax BD2_Misc.CpuUse_Pct BD2_Misc.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP CPU_Use "Comment"
+      /begin REF_CHARACTERISTIC
+        k_CpuUseProcessMask k_CpuUseProcessMask.BD1_2msA k_CpuUseProcessMask.BD1_2msB k_CpuUseProcessMask.BD2_2msA k_CpuUseProcessMask.BD2_Misc k_CpuUseProcessMask.D k_CpuUseProcessMask.D_Init k_CpuUseProcessMask.D_SchM 
+        k_CpuUseProcessMask.Fr_ISR_Timer0 k_CpuUseProcessMask.Fr_ISR_Timer1 k_CpuUseProcessMask.Fr_IrqLine0 k_CpuUseProcessMask.MtrCtrl k_CpuUseProcessMask.QM_100ms k_CpuUseProcessMask.QM_10ms k_CpuUseProcessMask.QM_128ms k_CpuUseProcessMask.QM_256ms 
+        k_CpuUseProcessMask.QM_4ms k_CpuUseProcessMask.QM_5ms k_CpuUseProcessMask.QM_64ms k_CpuUseProcessMask.QM_8ms k_CpuUseProcessMask.QM_Bkgnd k_CpuUseProcessMask.QM_Init k_CpuUseProcessMask.QM_SchM k_CpuUseProcessMask.QM_SchM2 
+        k_CpuUseProcessMask.QM_SysStTrans k_CpuUseProcessMask.SPI_IrqUnit0TxRx k_CpuUseProcessMask.SPI_IrqUnit0TxRxERR k_CpuUseProcessMask.SPI_IrqUnit1TxRx k_CpuUseProcessMask.SPI_IrqUnit1TxRxERR k_CpuUseProcessMask.SPI_IrqUnit2TxRx k_CpuUseProcessMask.SPI_IrqUnit2TxRxERR k_CpuUseUpdateInterval 
+      /end REF_CHARACTERISTIC
+      /begin REF_MEASUREMENT
+        BkgndLoopTimeMax CpuUse 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP D "ASILD_Task"
+      /begin REF_MEASUREMENT
+        D.ActiveTimeMax D.CpuUse_Pct D.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP D_Init "ASILD_Init"
+      /begin REF_MEASUREMENT
+        D_Init.ActiveTimeMax D_Init.CpuUse_Pct D_Init.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP D_MtrCtrl "D_MTRCTRLID_CNT"
+      /begin REF_MEASUREMENT
+        D_MtrCtrl.ActiveTimeMax D_MtrCtrl.CpuUse_Pct D_MtrCtrl.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP D_SchM "SchM_Task_ASIL_D"
+      /begin REF_MEASUREMENT
+        D_SchM.ActiveTimeMax D_SchM.CpuUse_Pct D_SchM.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP Fr_IrqLine0 "D_COMIRQ1_CNT"
+      /begin REF_MEASUREMENT
+        Fr_IrqLine0.ActiveTimeMax Fr_IrqLine0.CpuUse_Pct Fr_IrqLine0.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP Fr_ISR_Timer0 "D_COMIRQ2_CNT"
+      /begin REF_MEASUREMENT
+        Fr_ISR_Timer0.ActiveTimeMax Fr_ISR_Timer0.CpuUse_Pct Fr_ISR_Timer0.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP Fr_ISR_Timer1 "D_COMIRQ3_CNT"
+      /begin REF_MEASUREMENT
+        Fr_ISR_Timer1.ActiveTimeMax Fr_ISR_Timer1.CpuUse_Pct Fr_ISR_Timer1.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP Metrics "Nxtr EPS Metrics"
+      ROOT
+      /begin SUB_GROUP
+        CPU_Use 
+        Runnables 
+        Stack_Use 
+        Tasks 
+      /end SUB_GROUP
+      /begin REF_CHARACTERISTIC
+        TraceLog 
+      /end REF_CHARACTERISTIC
+    /end GROUP
+
+    /begin GROUP QM_100ms "Task_100ms"
+      /begin REF_MEASUREMENT
+        QM_100ms.ActiveTimeMax QM_100ms.CpuUse_Pct QM_100ms.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP QM_10ms "Task_10ms"
+      /begin REF_MEASUREMENT
+        QM_10ms.ActiveTimeMax QM_10ms.CpuUse_Pct QM_10ms.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP QM_128ms "Task_128ms"
+      /begin REF_MEASUREMENT
+        QM_128ms.ActiveTimeMax QM_128ms.CpuUse_Pct QM_128ms.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP QM_256ms "Task_256ms"
+      /begin REF_MEASUREMENT
+        QM_256ms.ActiveTimeMax QM_256ms.CpuUse_Pct QM_256ms.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP QM_4ms "Task_4ms"
+      /begin REF_MEASUREMENT
+        QM_4ms.ActiveTimeMax QM_4ms.CpuUse_Pct QM_4ms.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP QM_5ms "Task_5ms"
+      /begin REF_MEASUREMENT
+        QM_5ms.ActiveTimeMax QM_5ms.CpuUse_Pct QM_5ms.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP QM_64ms "Task_64ms"
+      /begin REF_MEASUREMENT
+        QM_64ms.ActiveTimeMax QM_64ms.CpuUse_Pct QM_64ms.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP QM_8ms "Task_8ms"
+      /begin REF_MEASUREMENT
+        QM_8ms.ActiveTimeMax QM_8ms.CpuUse_Pct QM_8ms.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP QM_Background "Task_Bkgnd"
+      /begin REF_MEASUREMENT
+        QM_Background.ActiveTimeMax QM_Background.CpuUse_Pct QM_Background.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP QM_Init "Task_Init"
+      /begin REF_MEASUREMENT
+        QM_Init.ActiveTimeMax QM_Init.CpuUse_Pct QM_Init.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP QM_SchM "SchM_Task"
+      /begin REF_MEASUREMENT
+        QM_SchM.ActiveTimeMax QM_SchM.CpuUse_Pct QM_SchM.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP QM_SchM2 "SchM_Task2"
+      /begin REF_MEASUREMENT
+        QM_SchM2.ActiveTimeMax QM_SchM2.CpuUse_Pct QM_SchM2.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP QM_SysStTrans "Task_SysStTrans"
+      /begin REF_MEASUREMENT
+        QM_SysStTrans.ActiveTimeMax QM_SysStTrans.CpuUse_Pct QM_SysStTrans.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP Runnables "Comment"
+    /end GROUP
+
+    /begin GROUP SPI_IrqUnit0TxRx "D_SPIIRQ2_CNT
+"
+      /begin REF_MEASUREMENT
+        SPI_IrqUnit0TxRx.ActiveTimeMax SPI_IrqUnit0TxRx.CpuUse_Pct SPI_IrqUnit0TxRx.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP SPI_IrqUnit0TxRxERR "D_SPIIRQ1_CNT"
+      /begin REF_MEASUREMENT
+        SPI_IrqUnit0TxRxERR.ActiveTimeMax SPI_IrqUnit0TxRxERR.CpuUse_Pct SPI_IrqUnit0TxRxERR.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP Spi_IrqUnit1TxRx "D_SPIIRQ4_CNT"
+      /begin REF_MEASUREMENT
+        SPI_IrqUnit1TxRx.ActiveTimeMax SPI_IrqUnit1TxRx.CpuUse_Pct SPI_IrqUnit1TxRx.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP Spi_IrqUnit1TxRxERR "D_SPIIRQ3_CNT"
+      /begin REF_MEASUREMENT
+        SPI_IrqUnit1TxRxERR.ActiveTimeMax SPI_IrqUnit1TxRxERR.CpuUse_Pct SPI_IrqUnit1TxRxERR.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP SPI_IrqUnit2TxRx "D_SPIIRQ6_CNT
+"
+      /begin REF_MEASUREMENT
+        SPI_IrqUnit2TxRx.ActiveTimeMax SPI_IrqUnit2TxRx.CpuUse_Pct SPI_IrqUnit2TxRx.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP SPI_IrqUnit2TxRxErr "D_SPIIRQ5_CNT
+"
+      /begin REF_MEASUREMENT
+        SPI_IrqUnit2TxRxERR.ActiveTimeMax SPI_IrqUnit2TxRxERR.CpuUse_Pct SPI_IrqUnit2TxRxERR.RunTimeMax 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP Stack_Use "Comment"
+      /begin REF_MEASUREMENT
+        StackUse_BD1_2msA StackUse_BD1_2msB StackUse_BD2_2msA StackUse_BD2_Misc StackUse_D StackUse_D_Init StackUse_D_SchM_Init StackUse_QM_100ms 
+        StackUse_QM_10ms StackUse_QM_128ms StackUse_QM_256ms StackUse_QM_4ms StackUse_QM_5ms StackUse_QM_64ms StackUse_QM_8ms StackUse_QM_Bkgnd 
+        StackUse_QM_Init StackUse_QM_SchM StackUse_QM_SchM2 StackUse_QM_SysStTrans 
+      /end REF_MEASUREMENT
+    /end GROUP
+
+    /begin GROUP Tasks "Comment"
+      /begin SUB_GROUP
+        BD1_2msA 
+        BD1_2msB 
+        BD2_2msA 
+        BD2_Misc 
+        D 
+        D_Init 
+        D_MtrCtrl 
+        D_SchM 
+        Fr_IrqLine0 
+        Fr_ISR_Timer0 
+        Fr_ISR_Timer1 
+        QM_100ms 
+        QM_10ms 
+        QM_128ms 
+        QM_256ms 
+        QM_4ms 
+        QM_5ms 
+        QM_64ms 
+        QM_8ms 
+        QM_Background 
+        QM_Init 
+        QM_SchM 
+        QM_SchM2 
+        QM_SysStTrans 
+        SPI_IrqUnit0TxRx 
+        SPI_IrqUnit0TxRxERR 
+        Spi_IrqUnit1TxRx 
+        Spi_IrqUnit1TxRxERR 
+        SPI_IrqUnit2TxRx 
+        SPI_IrqUnit2TxRxErr 
+      /end SUB_GROUP
+      /begin REF_CHARACTERISTIC
+        k_TaskTimeFilterK_Uls_f32 
+      /end REF_CHARACTERISTIC
+    /end GROUP

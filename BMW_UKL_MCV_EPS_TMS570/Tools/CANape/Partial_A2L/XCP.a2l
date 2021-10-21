@@ -1,0 +1,95 @@
+      /begin PROTOCOL_LAYER
+        0x0100
+        0x07D0
+        0x2710
+        0
+        0
+        0
+        0
+        0
+        0x08 /* kXcpMaxCto */
+        0x0008 /* kXcpMaxDto */
+        28 /* kXcpMaxCto */
+        12 /* kXcpMaxDto */
+        BYTE_ORDER_MSB_FIRST
+        ADDRESS_GRANULARITY_WORD
+        OPTIONAL_CMD GET_COMM_MODE_INFO
+        OPTIONAL_CMD GET_ID
+        OPTIONAL_CMD UNLOCK
+        OPTIONAL_CMD SET_MTA
+        OPTIONAL_CMD UPLOAD
+        OPTIONAL_CMD SHORT_UPLOAD
+        OPTIONAL_CMD TRANSPORT_LAYER_CMD
+        OPTIONAL_CMD USER_CMD
+        OPTIONAL_CMD DOWNLOAD
+        OPTIONAL_CMD DOWNLOAD_NEXT
+        OPTIONAL_CMD SHORT_DOWNLOAD
+        OPTIONAL_CMD GET_PAG_PROCESSOR_INFO
+        OPTIONAL_CMD SET_DAQ_PTR
+        OPTIONAL_CMD WRITE_DAQ
+        OPTIONAL_CMD SET_DAQ_LIST_MODE
+        OPTIONAL_CMD GET_DAQ_LIST_MODE
+        OPTIONAL_CMD START_STOP_DAQ_LIST
+        OPTIONAL_CMD START_STOP_SYNCH
+        OPTIONAL_CMD GET_DAQ_CLOCK
+        OPTIONAL_CMD GET_DAQ_PROCESSOR_INFO
+        OPTIONAL_CMD GET_DAQ_RESOLUTION_INFO
+        OPTIONAL_CMD GET_DAQ_EVENT_INFO
+        OPTIONAL_CMD FREE_DAQ
+        OPTIONAL_CMD ALLOC_DAQ
+        OPTIONAL_CMD ALLOC_ODT
+        OPTIONAL_CMD ALLOC_ODT_ENTRY
+        OPTIONAL_CMD PROGRAM_START
+        OPTIONAL_CMD PROGRAM_CLEAR
+        OPTIONAL_CMD PROGRAM
+        OPTIONAL_CMD PROGRAM_RESET
+        COMMUNICATION_MODE_SUPPORTED  BLOCK  SLAVE  MASTER  43  0
+      /end PROTOCOL_LAYER
+      /begin DAQ
+        DYNAMIC
+        0 /* MAX_DAQ */
+        2 /* MAX_EVENT_CHANNEL */ 
+        0 /* MIN_DAQ */
+        OPTIMISATION_TYPE_DEFAULT /* OPTIMISATION_TYPE */
+        ADDRESS_EXTENSION_FREE /* ADDRESS_EXTENSION */
+        IDENTIFICATION_FIELD_TYPE_ABSOLUTE /* IDENTIFICATION_FIELD */
+        GRANULARITY_ODT_ENTRY_SIZE_DAQ_BYTE /* GRANULARITY_ODT_ENTRY_SIZE_DAQ */
+        7 /* MAX_ODT_ENTRY_SIZE_DAQ */
+        OVERLOAD_INDICATION_PID
+        PRESCALER_SUPPORTED
+      /begin TIMESTAMP_SUPPORTED
+        1/* TIMESTAMP_TICKS */
+        SIZE_WORD
+        UNIT_1US /* RESOLUTION OF TIMESTAMP */
+      /end TIMESTAMP_SUPPORTED
+      /begin EVENT
+        2ms_DAQ /* EVENT_CHANNEL_NAME */
+        NULL /* EVENT_CHANNEL_SHORT_NAME */
+        0 /* EVENT_CHANNEL_NUMBER */
+        DAQ
+         /* MAX_DAQ_LIST */
+        2 /* TIME_CYCLE */
+        6 /* TIME_UNIT */
+        0 /* PRIORITY */
+      /end EVENT
+      /begin EVENT
+        1ms_DAQ /* EVENT_CHANNEL_NAME */
+        NULL /* EVENT_CHANNEL_SHORT_NAME */
+        1 /* EVENT_CHANNEL_NUMBER */
+        DAQ
+         /* MAX_DAQ_LIST */
+        1 /* TIME_CYCLE */
+        6 /* TIME_UNIT */
+        0 /* PRIORITY */
+      /end EVENT
+      /end DAQ
+      /begin PGM
+        PGM_MODE_ABSOLUTE
+        1
+        8 /* kXcpMaxCTO */
+        /begin SECTOR
+          0 /* Address */                      
+          0 /* Length */                       
+        /end SECTOR
+        COMMUNICATION_MODE_SUPPORTED  BLOCK  SLAVE  MASTER  43  0
+      /end PGM

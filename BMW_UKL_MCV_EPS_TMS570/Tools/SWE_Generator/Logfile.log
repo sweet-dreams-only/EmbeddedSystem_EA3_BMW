@@ -1,0 +1,83 @@
+  52 - Command Open: output type SWFL
+  55 - Command SET_SREC_FORMAT: Set output file format Motorola SRec with 32 Bit address range
+  55 - Command SET_SREC_FORMAT: 20 (hex) bytes per line
+  61 - Set identifier to SWFL_00001894_000_000_000
+  64 - Set development info field: SWE3SWEDEVINFO
+  75 - Read data block [4000 - 13DC3] from file: EPS_UKL_MCV.S19
+  76 - Read data block [13DC4 - 13DCB] from file: EPS_UKL_MCV.S19
+  77 - Read data block [13DCC - 13ECF] from file: EPS_UKL_MCV.S19
+  78 - Read data block [13ED0 - 13FCF] from file: EPS_UKL_MCV.S19
+  79 - Read data block [13FD0 - 13FDF] from file: EPS_UKL_MCV.S19
+  90 - Command SIGN: Setting key file for signing to SWEGENERATOR.KEY
+ 101 - Start new checksum table
+ 102 - Create checksum table entry [004000-004000]
+ 103 - Create checksum table entry [004004-004004]
+ 104 - Create checksum table entry [004008-004008]
+ 105 - Create checksum table entry [00400C-00400C]
+ 106 - Create checksum table entry [004010-004010]
+ 107 - Create checksum table entry [004014-004014]
+ 108 - Create checksum table entry [004018-004018]
+ 109 - Create checksum table entry [00401C-00401C]
+ 110 - Create checksum table entry [004020-004020]
+ 111 - Create checksum table entry [004024-004024]
+ 112 - Create checksum table entry [004028-004028]
+ 113 - Create checksum table entry [00402C-00402C]
+ 114 - Create checksum table entry [004030-004030]
+ 115 - Create checksum table entry [004034-004034]
+ 116 - Create checksum table entry [004038-004038]
+ 117 - Create checksum table entry [00403C-00403C]
+ 118 - Create checksum table entry [004040-004040]
+ 119 - Create checksum table entry [004044-004044]
+ 120 - Create checksum table entry [004048-004048]
+ 121 - Create checksum table entry [00404C-00404C]
+ 122 - Create checksum table entry [004050-004050]
+ 123 - Create checksum table entry [004054-004054]
+ 124 - Create checksum table entry [004058-004058]
+ 125 - Create checksum table entry [00405C-00405C]
+ 126 - Create checksum table entry [004060-004060]
+ 127 - Create checksum table entry [004064-004064]
+ 128 - Create checksum table entry [004068-004068]
+ 129 - Create checksum table entry [00406C-00406C]
+ 130 - Create checksum table entry [004070-004070]
+ 131 - Create checksum table entry [004074-004074]
+ 132 - Create checksum table entry [004078-004078]
+ 133 - Create checksum table entry [00407C-00407C]
+ 134 - Create checksum table entry [004080-004080]
+ 135 - Create checksum table entry [004084-004084]
+ 136 - Create checksum table entry [004088-004088]
+ 137 - Create checksum table entry [00408C-00408C]
+ 138 - Create checksum table entry [004090-004090]
+ 139 - Create checksum table entry [004094-004094]
+ 140 - Create checksum table entry [004098-004098]
+ 141 - Create checksum table entry [00409C-00409C]
+ 142 - Create checksum table entry [0040A0-0040A0]
+ 143 - Create checksum table entry [0040A4-0040A4]
+ 144 - Create checksum table entry [0040A8-0040A8]
+ 145 - Create checksum table entry [0040AC-0040AC]
+ 146 - Create checksum table entry [0040B0-0040B0]
+ 147 - Create checksum table entry [0040B4-0040B4]
+ 148 - Create checksum table entry [0040B8-0040B8]
+ 149 - Create checksum table entry [0040BC-0040BC]
+ 150 - Create checksum table entry [0040C0-0040C0]
+ 151 - Create checksum table entry [0040C4-0040C4]
+ 152 - Create checksum table entry [0040C8-0040C8]
+ 153 - Create checksum table entry [0040CC-0040CC]
+ 154 - Create checksum table entry [0040D0-0040D0]
+ 155 - Create checksum table entry [0040D4-0040D4]
+ 156 - Create checksum table entry [0040D8-0040D8]
+ 157 - Create checksum table entry [0040DC-0040DC]
+ 158 - Create checksum table entry [0040E0-0040E0]
+ 159 - Create checksum table entry [0040E4-0040E4]
+ 160 - Create checksum table entry [0040E8-0040E8]
+ 161 - Create checksum table entry [0040EC-0040EC]
+ 162 - Create checksum table entry [0040F0-0040F0]
+ 163 - Create checksum table entry [0040F4-0040F4]
+ 164 - Create checksum table entry [0040F8-0040F8]
+ 165 - Create checksum table entry [0040FC-0040FC]
+ 167 - Finish checksum table
+ 169 - Write checksum A5F6DC6E into memory at address 13FD0
+  93 - Create identifier in description table at address 013DC4
+ 175 - SHA256 Hash value over signature blocks: 25CAC9735472449D8413B0B1EE3F4E78B1A69E35AB1ED70440DB41FD15848D18
+ 341 - Error: Function CSignator::signAsymetric(): Key in keyfile has wrong length.
+  90 - Error: Sign could not be performed
+ 176 - CONFIG FILE HAS ERRORS!!! ABORTION!!!

@@ -1,0 +1,1 @@
+extern FUNC(Std_ReturnType, SYSTIMECLIENT_PUBLIC_CODE) SysTimeClient_GetTime(uint32 *currentTime);
